@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Evaldo Rodrigues 👋
 
-- 🔭 Eu atualmente estou buscando um estágio como desenvolvedor
-- 🌱 Eu estou atualmente estudando HTML5, CSS3, JavaScript e python
+- 🔭 Buscando agregar cada vez mais a todo projeto que me envolvo
+- 🌱 Sou dev web focado no front-end, possuindo conhecimento em HTML, CSS e JS
 - 📫 Como me contatar: evaaldormj@gmail.com ou pelo meu linkedin: https://www.linkedin.com/in/evaldo-rodrigues-0b0522247/
 - 😄 Pronomes: ele/dele
 
