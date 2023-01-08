@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Evaldo Rodrigues 👋
 
 - 🔭 Buscando agregar cada vez mais a todo projeto que me envolvo
-- 🌱 Sou dev web focado no front-end, possuindo conhecimento em ReactJS, HTML, CSS e JS
+- 🌱 Atuante na área de business intelligence e desenvolvedor front-end
 - 📫 Como me contatar: evaaldormj@gmail.com ou pelo meu linkedin: https://www.linkedin.com/in/evaldo-rodrigues-0b0522247/
 - 😄 Pronomes: ele/dele
 
