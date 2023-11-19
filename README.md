@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Evaldo Rodrigues 👋
 
 - 🔭 Buscando agregar cada vez mais a todo projeto que me envolvo
-- 🌱 Atuante na área de business intelligence e desenvolvedor front-end
+- 🌱 Desenvolvedor .NET com vasto conhecimento do Front-end
 - 📫 Como me contatar: evaaldormj@gmail.com ou pelo meu linkedin: https://www.linkedin.com/in/evaldo-rodrigues-0b0522247/
 - 😄 Pronomes: ele/dele
 
