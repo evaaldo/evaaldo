@@ -1,12 +1,10 @@
 ### Olá! Eu sou o Evaldo Rodrigues 👋
 
-- 🔭 Buscando agregar cada vez mais a todo projeto que me envolvo
-- 🌱 Desenvolvedor .NET com vasto conhecimento do Front-end
-- 📫 Como me contatar: evaaldormj@gmail.com ou pelo meu linkedin: https://www.linkedin.com/in/evaldo-rodrigues-0b0522247/
-- 😄 Pronomes: ele/dele
+- 🌐 Apaixonado pelo Desenvolvimento WEB
+- 💻 Desenvolvedor .NET com vasto conhecimento do Front-end
 
-<div align="center">
-  <a href="https://github.com/evaaldo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evaaldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evaaldo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<h3>📫 Como me contatar:</h3>
+<ul>
+  <li>Linkedin: https://www.linkedin.com/in/evaldorodrigues/</li>
+  <li>E-mail: evaaldormj@gmail.com</li>
+</ul>
