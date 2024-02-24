@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Evaldo Rodrigues 👋
 
 - 🌐 Apaixonado pelo Desenvolvimento WEB
-- 💻 Desenvolvedor NodeJS com vasto conhecimento do Front-end
+- 💻 Desenvolvedor NodeJS, Angular, JQuery e .NET
 - 🤖 Faço parte do time de desenvolvimento do Grupo 3 Corações
 
 <h3>📫 Como me contatar:</h3>
