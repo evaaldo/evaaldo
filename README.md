@@ -1,10 +1,9 @@
 ### Olá! Eu sou o Evaldo Rodrigues 👋
 
-- 🌐 Apaixonado pelo Desenvolvimento WEB
-- 💻 Desenvolvedor NodeJS, Angular, JQuery e .NET
-- 🤖 Faço parte do time de desenvolvimento do Grupo 3 Corações
+- 🌐 In love with code
+- 💻 .NET and Angular developer
 
-<h3>📫 Como me contatar:</h3>
+<h3>📫 Contact me</h3>
 <ul>
   <li>Linkedin: https://www.linkedin.com/in/evaldorodrigues/</li>
   <li>E-mail: evaaldormj@gmail.com</li>
