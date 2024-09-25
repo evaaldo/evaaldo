@@ -1,4 +1,4 @@
-### Olá! Eu sou o Evaldo Rodrigues 👋
+### Hi! I'm Evaldo 👋
 
 - 🌐 In love with code
 - 💻 .NET and Angular developer
