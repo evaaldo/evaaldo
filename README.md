@@ -1,11 +1,11 @@
-### Hi! I'm Evaldo 👋
+### Oi! Eu sou o Evaldo 👋
 
-- 🌐 In love with code
-- 💻 .NET and React developer
+- 🌐 Apaixonado pelo código
+- 💻 Desenvolvedor React e .NET
 
-<h3>📫 Contact me</h3>
+<h3>📫 Me contate!</h3>
 <ul>
   <li>Linkedin: https://www.linkedin.com/in/evaldorodrigues/</li>
   <li>E-mail: evaaldormj@gmail.com</li>
-  <li>Phone: (85) 9.9612-8272</li>
+  <li>Telefone: (85) 9.9612-8272</li>
 </ul>
