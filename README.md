@@ -1,7 +1,7 @@
 ### Oi! Eu sou o Evaldo 👋
 
 - 🌐 Apaixonado pelo código
-- 💻 Desenvolvedor React, Ruby on Rails e .NET
+- 💻 Desenvolvedor React, Angular, Ruby on Rails e .NET
 
 <h3>📫 Me contate!</h3>
 <ul>
