@@ -1,7 +1,7 @@
-### Oi! Eu sou o Evaldo 👋
+### Opa! Eu sou o Evaldo 👋
 
-- 🌐 Apaixonado pelo código
-- 💻 Desenvolvedor React, Angular, e .NET
+- 🌐 Arquiteto de Software
+- 💻 Desenvolvedor .NET
 
 <h3>📫 Me contate!</h3>
 <ul>
