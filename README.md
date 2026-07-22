@@ -1,6 +1,6 @@
 ### Opa! Eu sou o Evaldo 👋
 
-- 🌐 Arquiteto de Software
+- 🌐 Engenheiro de Software
 - 💻 Desenvolvedor .NET
 
 <h3>📫 Me contate!</h3>
