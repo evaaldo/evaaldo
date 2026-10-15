@@ -35,9 +35,6 @@ E-mail: evaaldormj@gmail.com | Phone: +5585996128272
   <b>Meu Portfólio</b>
 </a> -->
 
-
-<br>
-
 <!-- <p align="left">
     <a href="https://github.com/evaaldo?tab=repositories&sort=stargazers">
         <img 
