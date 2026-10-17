@@ -1,7 +1,7 @@
 <div align="center" width="100%">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+!" alt="Typing SVG" /></a>
 
-<img align="right" src="./assets/tom.gif" width="220" alt="Tom saying hi"/>
+<img align="right" src="https://media.tenor.com/RLErQc1fwjgAAAAi/t.gif" width="220" alt="Tom saying hi"/>
     
 </div>
 
