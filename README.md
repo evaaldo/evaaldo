@@ -13,7 +13,7 @@
 <br>
 .NET Software Engineer with experience in mission-critical banking applications at BTG Pactual and Banco PAN.
 <br><br>
-I’m passionate about computing, and in my free time, I’m always curiously exploring ways to write code that is more readable and performs better—even in the age of AI, I really value the "craftsmanship" aspect of software development, haha!
+I’m passionate about computing, and in my free time, I’m always curiously exploring ways to write code that is more readable and performs better (even in the age of AI, I really value the "craftsmanship" aspect of software development, haha!)
 <br><br>
 I also enjoy reading about architecture, networking, and coding practices. Feel free to reach out!
 <br>
